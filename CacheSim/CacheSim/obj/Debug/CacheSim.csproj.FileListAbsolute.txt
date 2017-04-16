@@ -1,0 +1,9 @@
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\bin\Debug\CacheSim.exe.config
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\bin\Debug\CacheSim.exe
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\bin\Debug\CacheSim.pdb
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.csprojResolveAssemblyReference.cache
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.Form1.resources
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.Properties.Resources.resources
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.csproj.GenerateResource.Cache
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.exe
+c:\users\hhy12\documents\visual studio 2017\Projects\CacheSim\CacheSim\obj\Debug\CacheSim.pdb
